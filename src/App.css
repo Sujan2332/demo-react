@@ -13,7 +13,7 @@
 
 .App-logo {
   height: 120px;
-  animation: spin infinite 0.5s linear;
+  animation: spin infinite 1s linear;
 }
 
 @keyframes spin {
